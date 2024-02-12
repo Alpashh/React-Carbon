@@ -60,6 +60,8 @@ Félicitations, les amis ! 🎉 Vous avez franchi avec succès toutes les étape
 
 Maintenant que vous avez découvert le pouvoir de Carbon, explorez davantage en consultant la documentation officielle sur le Carbon Design System.
 
+```https://react.carbondesignsystem.com/?path=/docs/getting-started-welcome--welcome``` (le liens de tout les composants)
+
 Allez-y, explorez, créez, et n'ayez pas peur de laisser votre créativité briller ! Nous sommes impatients de voir les applications incroyables que vous allez construire avec Carbon et React. ✨
 
 N'oubliez pas de personnaliser davantage votre application en ajoutant plus de composants Carbon et en explorant les fonctionnalités avancées de React et Carbon Design System. Le ciel est la limite !
